@@ -15,5 +15,5 @@ A simple car maintenance book, to store usefull informations about your car that
 
 ------
 
-[logo]: ./demo_img/main.PNG
+[logo]: https://github.com/TPolge/car_maintenance_book/blob/master/demo_img/main.PNG
 Incredible material interface !
