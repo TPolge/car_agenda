@@ -15,5 +15,7 @@ A simple car maintenance book, to store usefull informations about your car that
 
 ------
 
-[logo]: https://github.com/TPolge/car_maintenance_book/blob/master/demo_img/main.PNG
+![screenshot](https://github.com/TPolge/car_maintenance_book/blob/master/demo_img/main.PNG?raw=true)
 Incredible material interface !
+![screenshot](https://github.com/TPolge/car_maintenance_book/blob/master/demo_img/add.PNG?raw=true)
+Very french baguette
